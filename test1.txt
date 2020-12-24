@@ -1,1 +1,2 @@
-this is a test file for the main brach it is going to be a new change. for the current file
+this is a test file for the main brach it is going to be a new change. for the current file also adding
+some extra feature to see if i could add all the file at once.
